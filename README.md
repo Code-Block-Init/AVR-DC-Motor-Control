@@ -8,3 +8,5 @@ Pros:
 Cons:
 - No indicator available.
 - No OFF operation via push button
+
+An improved version can be found -> <a href="https://github.com/ashumeow/SwitchedMotor-AVR">here</a>
